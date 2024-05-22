@@ -1,2 +1,2 @@
-# captive_portal_esp32
-Exemplo de Captive Portal Usando ESP WROOM 32
+# Captive Portal ESP WROOM 32
+Código de exemplo para criação de captive portal 
