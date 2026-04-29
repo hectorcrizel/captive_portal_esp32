@@ -16,3 +16,8 @@ A C++ implementation for the ESP32 microcontroller that turns the device into a 
 *   C++ (Arduino / ESP-IDF)
 *   ESP32 Web Server
 *   DNS Server
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
